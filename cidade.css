@@ -1,3 +1,15 @@
 a{
     text-decoration: none;
 }
+
+p{
+    margin-left: 25px;
+}
+
+h1{
+    margin: 20px;
+    background-color: bisque;
+    padding: 10px;
+}
+
+

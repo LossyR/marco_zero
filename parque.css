@@ -1,0 +1,17 @@
+a{
+    text-decoration: none;
+}
+img{
+    width: 30%;
+    margin: 40px;
+}
+
+h1{
+    background-color: bisque;
+    margin: 20px;
+}
+
+p{
+    text-align: left;
+    padding: 20px;
+}
