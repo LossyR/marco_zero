@@ -15,3 +15,11 @@ p{
     text-align: left;
     padding: 20px;
 }
+
+html{
+    color: cornflowerblue;
+    background-color: beige;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+

@@ -12,4 +12,9 @@ h1{
     padding: 10px;
 }
 
+html{
+    color: cornflowerblue;
+    background-color: beige;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 
