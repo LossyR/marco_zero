@@ -16,3 +16,8 @@ html{
     color: cornflowerblue;
     background-color: beige;
 }
+
+.rodape ul li{
+    display: flex;
+    justify-content: space-around;
+}

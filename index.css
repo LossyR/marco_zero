@@ -23,3 +23,8 @@ html{
     background-color: beige;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+.rodape ul li{
+    display: flex;
+    justify-content: space-around;
+}
